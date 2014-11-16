@@ -5,3 +5,9 @@ txpunk ttys002
 txpunk ttys003
 txpunk ttys004
 txpunk ttys005
+user console
+user ttys000
+user console
+user ttys000
+user console
+user ttys000
